@@ -1,16 +1,35 @@
-## Hi there 👋
+---
 
-<!--
-**munyaradzichirove/munyaradzichirove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Munyaradzi Chirove
 
-Here are some ideas to get you started:
+![Hi, I'm Munyaradzi!](https://media.giphy.com/media/3o7aD4rQ1Yw3q6HkFe/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+Software Engineer | Frappe, Django, Laravel, FastAPI, Flask | Python  
+Building robust apps for payments, banking, and enterprise systems 🚀  
+
+💼 Senior Developer @ Showline / Havano  
+🌍 Harare, Zimbabwe  
+🌐 Website: [mrchirove.web.app](https://mrchirove.web.app)  
+📫 Connect on [LinkedIn](https://www.linkedin.com/in/munyaradzi-chirove-74851034a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+## ⚡ Tech & Tools
+- **Messaging & Streaming:** Kafka, RabbitMQ, gRPC (for Paynow + 3 services), Temporal  
+- **Data & Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
+- **Auth & Security:** Keycloak, FreeRADIUS  
+- **Apps & UI:** Electron (WireGuard)  
+- **Other:** Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)
+
+---
+
+---
+
+## 📈 GitHub Stats
+![Munyaradzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyaradzichirove&show_icons=true&theme=radical)
+
+
+---

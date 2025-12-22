@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Munyaradzi Chirove
 
-![Hi, I'm Munyaradzi!](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+![Hi, I'm Munyaradzi!](https://media.giphy.com /media/ASd0Ukj0y3qMM /giphy.gif)
 
 ---
 

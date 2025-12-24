@@ -18,7 +18,11 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 ---
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ## ⚡  Tech & Tools
+=======
+## ⚡  Technology and Tools
+>>>>>>> Stashed changes
 =======
 ## ⚡  Technology and Tools
 >>>>>>> Stashed changes

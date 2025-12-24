@@ -31,7 +31,7 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 ----
 
 ## 📈 GitHub  Stats
-![Munyaradzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyaradzichirove&show_icons=true&theme=radical)
+![Munyaradzi Chirove's GitHub stats](https://github-readme-stats.vercel.app/api?username=munyaradzichirove&show_icons=true&theme=radical)
 
 
 ---

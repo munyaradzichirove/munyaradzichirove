@@ -17,7 +17,13 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 
 ---
 
+<<<<<<< Updated upstream
 ## ⚡  Technology & Tools
+=======
+
+## ⚡  Technology and Tools
+
+>>>>>>> Stashed changes
 - **Messaging & Streaming:** Kafka, RabbitMQ, gRPC (for Paynow + 3 services), Temporal  
 - **Data & Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
 - **Auth & Security:** Keycloak, FreeRADIUS  

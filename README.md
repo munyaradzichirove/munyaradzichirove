@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About  Me
 Software Engineer | Frappe, Django, Laravel, FastAPI, Flask | Python  
 Building robust apps for payments, banking, and enterprise systems 🚀  
 

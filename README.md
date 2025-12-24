@@ -21,7 +21,7 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 
 
 - **Messaging and Streaming:** Kafka, RabbitMQ, gRPC (for Paynow + 3 services), Temporal  
-- **Data & Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
+- **Data and Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
 - **Auth & Security:** Keycloak, FreeRADIUS  
 - **Apps & UI:** Electron (WireGuard)  
 - **Other:**  Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)

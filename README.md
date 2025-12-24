@@ -11,24 +11,18 @@ Software Engineer | Frappe, Django, Laravel, FastAPI, Flask | Python
 Building robust apps for payments, banking, and enterprise systems 🚀  
 
 💼 Senior Developer @ Showline / Havano  
-🌍 Harare, Zimbabwe   
+🌍 Harare, Zimbabwe  
 🌐 Website: [mrchirove.web.app](https://mrchirove.web.app)  
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/munyaradzi-chirove-74851034a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
-<<<<<<< Updated upstream
-## ⚡  Technology & Tools
-=======
-
-## ⚡  Technology and Tools
-
->>>>>>> Stashed changes
+## ⚡  Tech & Tools
 - **Messaging & Streaming:** Kafka, RabbitMQ, gRPC (for Paynow + 3 services), Temporal  
 - **Data & Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
 - **Auth & Security:** Keycloak, FreeRADIUS  
 - **Apps & UI:** Electron (WireGuard)  
-- **Other:** Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)
+- **Other:**  Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)
 
 ---
 
@@ -39,4 +33,3 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 
 
 ---
--

@@ -22,7 +22,7 @@ Building robust apps for payments, banking, and enterprise systems 🚀
 - **Data & Analytics:** Apache Flink, ClickHouse, Apache Druid, Data Warehouse  
 - **Auth & Security:** Keycloak, FreeRADIUS  
 - **Apps & UI:** Electron (WireGuard)  
-- **Other:** Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)
+- **Other:**  Payroll Libraries, Banking & ZIMRA Systems (credit notes, debit, sales invoices)
 
 ---
 
